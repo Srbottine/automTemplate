@@ -1,6 +1,7 @@
 import {useState} from 'react';
 import { FiSearch } from 'react-icons/fi'
 import "./css/styles.css"
+import "./event.js"
 
 function App() {
 
